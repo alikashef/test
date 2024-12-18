@@ -1,0 +1,412 @@
+{
+  "BPMS": {
+    "Primary": {
+      "500": {
+        "$type": "color",
+        "$value": "#F7D838"
+      }
+    }
+  },
+  "Basic": {
+    "White": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    }
+  },
+  "Blue": {
+    "50": {
+      "$type": "color",
+      "$value": "#E3F2FD"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#2196F3"
+    }
+  },
+  "Blue-50": {
+    "$type": "color",
+    "$value": "#E3F2FD"
+  },
+  "Body-Md": {
+    "Medium": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "14px",
+        "fontFamily": "Roboto",
+        "fontWeight": 500,
+        "lineHeight": 1.43,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "Card 02": {
+    "$type": "shadow",
+    "$value": {
+      "blur": "29px",
+      "color": "#090F250A",
+      "spread": "0px",
+      "offsetX": "0px",
+      "offsetY": "15px"
+    }
+  },
+  "Dark": {
+    "Level-01": {
+      "$type": "color",
+      "$value": "#111936"
+    }
+  },
+  "Grays": {
+    "[6] Metal": {
+      "$type": "color",
+      "$value": "#606060"
+    },
+    "[8] Raven": {
+      "$type": "color",
+      "$value": "#202020"
+    }
+  },
+  "Grey": {
+    "10": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#F5F5F5"
+    },
+    "50": {
+      "$type": "color",
+      "$value": "#FAFAFA"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#616161"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#757575"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#212121"
+    }
+  },
+  "Grey-100": {
+    "$type": "color",
+    "$value": "#F5F5F5"
+  },
+  "Grey-500": {
+    "$type": "color",
+    "$value": "#9E9E9E"
+  },
+  "Grey-600": {
+    "$type": "color",
+    "$value": "#757575"
+  },
+  "Grey-900": {
+    "$type": "color",
+    "$value": "#212121"
+  },
+  "Heding": {
+    "H2": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "24px",
+        "fontFamily": "Irancell",
+        "fontWeight": 400,
+        "lineHeight": 1.33,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "Medium": {
+    "H6": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "12px",
+        "fontFamily": "Roboto",
+        "fontWeight": 500,
+        "lineHeight": 1.17,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "Primary": {
+    "Light": {
+      "$type": "color",
+      "$value": "#E3F2FD"
+    }
+  },
+  "TEXT MD": {
+    "Text MD - Medium": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "16px",
+        "fontFamily": "Irancell",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "TEXT SM": {
+    "Text SM - Medium": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "14px",
+        "fontFamily": "Irancell",
+        "fontWeight": 500,
+        "lineHeight": 1.43,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "TEXT XS": {
+    "Text XS - Medium": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "12px",
+        "fontFamily": "Irancell",
+        "fontWeight": 500,
+        "lineHeight": 1.92,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "TEXT-LG": {
+    "LG-B": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "18px",
+        "fontFamily": "Irancell",
+        "fontWeight": 700,
+        "lineHeight": 1.56,
+        "letterSpacing": "0px"
+      }
+    },
+    "LG-M": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "18px",
+        "fontFamily": "Irancell",
+        "fontWeight": 500,
+        "lineHeight": 1.56,
+        "letterSpacing": "0px"
+      }
+    },
+    "LG-R": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "18px",
+        "fontFamily": "Irancell",
+        "fontWeight": 400,
+        "lineHeight": 1.56,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "TEXT-MD": {
+    "MD-B": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "16px",
+        "fontFamily": "Irancell",
+        "fontWeight": 700,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      }
+    },
+    "MD-M": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "16px",
+        "fontFamily": "Irancell",
+        "fontWeight": 500,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "TEXT-SM": {
+    "SM-B": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "14px",
+        "fontFamily": "Irancell",
+        "fontWeight": 700,
+        "lineHeight": 1.43,
+        "letterSpacing": "0px"
+      }
+    },
+    "SM-L": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "14px",
+        "fontFamily": "Irancell",
+        "fontWeight": 300,
+        "lineHeight": 1.43,
+        "letterSpacing": "0px"
+      }
+    },
+    "SM-M": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "14px",
+        "fontFamily": "Irancell",
+        "fontWeight": 500,
+        "lineHeight": 1.43,
+        "letterSpacing": "0px"
+      }
+    },
+    "SM-R": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "14px",
+        "fontFamily": "Irancell",
+        "fontWeight": 400,
+        "lineHeight": 1.43,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "TEXT-XL": {
+    "XL-M": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "20px",
+        "fontFamily": "Irancell",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "TEXT-XS": {
+    "XS-B": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "12px",
+        "fontFamily": "Irancell",
+        "fontWeight": 700,
+        "lineHeight": 1.42,
+        "letterSpacing": "0px"
+      }
+    },
+    "XS-L": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "12px",
+        "fontFamily": "Irancell",
+        "fontWeight": 300,
+        "lineHeight": 1.42,
+        "letterSpacing": "0px"
+      }
+    },
+    "XS-M": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "12px",
+        "fontFamily": "Irancell",
+        "fontWeight": 500,
+        "lineHeight": 1.42,
+        "letterSpacing": "0px"
+      }
+    },
+    "XS-R": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": "12px",
+        "fontFamily": "Irancell",
+        "fontWeight": 400,
+        "lineHeight": 1.42,
+        "letterSpacing": "0px"
+      }
+    }
+  },
+  "iCommittee": {
+    "Blue": {
+      "$type": "color",
+      "$value": "#146C94"
+    }
+  },
+  "light": {
+    "10": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    },
+    "50": {
+      "$type": "color",
+      "$value": "#FAFAFA"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#616161"
+    },
+    "white-0": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    }
+  },
+  "shadow": {
+    "card": {
+      "$type": "shadow",
+      "$value": {
+        "blur": "24px",
+        "color": "#919EAB1F",
+        "spread": "-4px",
+        "offsetX": "0px",
+        "offsetY": "12px"
+      }
+    },
+    "dropdown": {
+      "$type": "shadow",
+      "$value": {
+        "blur": "40px",
+        "color": "#919EAB3D",
+        "spread": "-4px",
+        "offsetX": "-20px",
+        "offsetY": "20px"
+      }
+    },
+    "z1": {
+      "$type": "shadow",
+      "$value": {
+        "blur": "2px",
+        "color": "#919EAB29",
+        "spread": "0px",
+        "offsetX": "0px",
+        "offsetY": "1px"
+      }
+    },
+    "z20": {
+      "$type": "shadow",
+      "$value": {
+        "blur": "40px",
+        "color": "#919EAB29",
+        "spread": "-4px",
+        "offsetX": "0px",
+        "offsetY": "20px"
+      }
+    },
+    "z4": {
+      "$type": "shadow",
+      "$value": {
+        "blur": "8px",
+        "color": "#919EAB29",
+        "spread": "0px",
+        "offsetX": "0px",
+        "offsetY": "4px"
+      }
+    },
+    "z8": {
+      "$type": "shadow",
+      "$value": {
+        "blur": "16px",
+        "color": "#919EAB29",
+        "spread": "0px",
+        "offsetX": "0px",
+        "offsetY": "8px"
+      }
+    }
+  }
+}
